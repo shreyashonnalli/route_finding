@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -std=c99 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/unittests.dir/test.c.o CMakeFiles/unittests.dir/logic.c.o CMakeFiles/unittests.dir/unity/src/unity.c.o -o unittests 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shreyashonnalli/desktop/comp1921/Route Finding/Route Finding/logic.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+logic.h
+/Users/shreyashonnalli/desktop/comp1921/Route Finding/Route Finding/logic.h
+
+/Users/shreyashonnalli/desktop/comp1921/Route Finding/Route Finding/logic.h
+stdio.h
+-
+stdlib.h
+-
+
